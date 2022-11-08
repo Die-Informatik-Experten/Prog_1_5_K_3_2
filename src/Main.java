@@ -5,7 +5,7 @@
  */
 
 /**
- * This program prints the value ranges of all primitive data types
+ * This program prints the value range of all primitive data types
  */
 public class Main
 {
